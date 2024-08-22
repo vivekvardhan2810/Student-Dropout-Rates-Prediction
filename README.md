@@ -63,8 +63,16 @@ $ pip install -r requirements.txt
 
 ## How to Run
 
-- Clone the repository.
+1. Clone the repository.
 
-- Install the required packages.
+2. Install the required packages.
 
-- Run the notebook **'student_dropout_prediction.ipynb'** to see the results.
+3. Run the notebook **'student_dropout_prediction.ipynb'** to see the results.
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Acknowledgments
+
+Thanks to the open-source community for providing the tools and datasets used in this project.
